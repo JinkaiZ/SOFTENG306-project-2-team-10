@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.YouSeeSoft" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/dark_primary</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryDark</item>
+        <item name="android:spotShadowAlpha">0.6</item>
+        <item name="android:windowBackground">@color/light_primary</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+
+</resources>

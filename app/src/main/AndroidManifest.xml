@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.se306.youseesoft">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="YouSee Store"
+        android:roundIcon="@drawable/ic_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.YouSeeSoft">
+        <activity
+            android:name=".Activities.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.SearchActivity"></activity>
+        <activity android:name=".Activities.CartActivity"></activity>
+        <activity android:name=".Activities.ListActivity"></activity>
+        <activity android:name=".Activities.DetailActivity"></activity>
+    </application>
+
+</manifest>

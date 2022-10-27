@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colour    -->
+    <color name="primary">#61abf5</color>
+    <color name="light_primary">#F2F9FE</color>
+    <color name="dark_primary">#5d99c6</color>
+
+    <!-- Secondary colour    -->
+    <color name="secondary">#FC5046</color>
+    <color name="light_secondary">#FFC99A</color>
+
+    <!-- Frequently used colour    -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#CFCFCF</color>
+
+    <!-- Background colour of each category card component    -->
+    <color name="tablet_category_color">#fff9c4</color>
+    <color name="phone_category_color">#D9F2F4</color>
+    <color name="laptop_category_color">#F8D9CF</color>
+
+    <!-- palette for the primary colour of material design     -->
+    <color name="color_code_50">#f2f9fe</color>
+    <color name="color_code_100">#deeffd</color>
+    <color name="color_code_200">#c8e5fc</color>
+    <color name="color_code_300">#b1dafb</color>
+    <color name="color_code_400">#a1d2fa</color>
+    <color name="color_code_500">#90caf9</color>
+    <color name="color_code_600">#88c5f8</color>
+    <color name="color_code_700">#7dbdf7</color>
+    <color name="color_code_800">#73b7f6</color>
+    <color name="color_code_900">#61abf5</color>
+    <color name="color_code_A100">#ffffff</color>
+    <color name="color_code_A200">#ffffff</color>
+    <color name="color_code_A400">#fafcff</color>
+    <color name="color_code_A700">#e0efff</color>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318288590230",
+    "project_id": "softeng-306-project2",
+    "storage_bucket": "softeng-306-project2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318288590230:android:9ff8a148f06faedb2a99b7",
+        "android_client_info": {
+          "package_name": "com.se306.youseesoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318288590230-g6gkpglu781k09g937b2o71okijqnis9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkdTljVOztCWlzDkx5GJgn02dvr2uYOwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318288590230-g6gkpglu781k09g937b2o71okijqnis9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

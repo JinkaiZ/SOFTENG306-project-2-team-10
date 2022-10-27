@@ -1,0 +1,11 @@
+name,screenSize,storageSize,camera,memory,price,brand,category,system,cpu,gpu
+Razer Blade Pro 17,17.3 inches,1TB,Not Specified,32GB,7485,Razer,Laptop,Windows 10 Home,Intel Core i7,Nvidia RTX 3080
+Razer Blade Pro 15,15.6 inches,1TB,Not Specified,32GB,6336,Razer,Laptop,Windows 10 Home,Intel Core i7,Nvidia RTX 3080
+Dell Alienware m15 R4,15.6 inches,1TB,Not Specified,32GB,5825,Alienware,Laptop,Windows 10 Home,Intel Core i9,Nvidia RTX 3080
+Lenovo ThinkPad X1,13.3 inches,512 GB,Not Specified,8GB,6355,Lenovo,Laptop,Windows 10 Pro,Intel Core i5,Integrated Graphics
+Microsoft Surface Book 3,15.6 inches,1TB,Not Specified,32GB,4998,Microsoft,Laptop,Windows 10 Home,Intel Core i7,Nvidia GTX 1660 Ti
+HP Envy x360,15.6 inches,1TB,Not Specified,32GB,2798,HP,Laptop,Windows 10 Home,AMD Ryzen 7,Integrated Graphics
+Lenovo Yoga 9,14 inches,512 GB,Not Specified,16GB,2597,Lenovo,Laptop,Windows 10 Pro,Intel Core i5,Integrated Graphics
+Apple Macbook Pro,13.3 inches,512 GB,Not Specified,16GB,2849,Apple,Laptop,Mac OS,M1,Integrated Graphics
+Apple Macbook Air,13.3 inches,256 GB,Not Specified,8GB,1649,Apple,Laptop,Mac OS,M1,Integrated Graphics
+Acer Nitro 5,15.6 inches,256 GB,Not Specified,16GB,1610,Acer,Laptop,Windows 10 Home,Intel Core i5,Nvidia GTX 1650 Ti

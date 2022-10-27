@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Product List Item    -->
+    <style name="ProductListItemInfo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="ProductListItemName">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="ProductListItemImage">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:src">@drawable/not_found</item>
+    </style>
+
+    <style name="ProductListItemBin">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:src">@drawable/ic_bin</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- Top Pick List Item    -->
+    <style name="TopPickListItemImage">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">160dp</item>
+        <item name="android:src">@drawable/not_found</item>
+    </style>
+
+    <style name="TopPickListItemPadding">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <style name="TopPickListItemInfo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TopPickListItemName">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!--Category Card    -->
+    <style name="CategoryCard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardBackgroundColor">@color/light_primary</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+
+    <style name="CategoryCardImage">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlayExtended" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+    </style>
+
+
+    <!-- Padding and Margin    -->
+    <!-- The padding of left and right    -->
+    <style name="PaddingLeftAndRight">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+    <!-- The margin of the header region of activity cart    -->
+    <style name="CartActivityHeaderMargin">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <!-- Fonts   -->
+    <!-- The Type Scale for Header 4   -->
+    <style name="TextAppearance.Title" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+
+
+    <!-- The Type Scale for Body 1   -->
+    <style name="TextAppearance.Result" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
